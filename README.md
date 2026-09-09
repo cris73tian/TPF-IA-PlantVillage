@@ -6,12 +6,12 @@
 
 ---
 
-## 🎯 1. Introducción y Objetivo General
+## 1. Introducción y Objetivo General
 El objetivo de este trabajo práctico es construir, paso a paso, un sistema de Machine Learning que evolucione desde un modelo *baseline* hasta una arquitectura compleja, aplicando los conceptos teóricos y prácticos de cada unidad de la materia. No se busca solo que el modelo funcione, sino poder justificar cada decisión de diseño, interpretar resultados y aplicar técnicas de mejora de manera sistemática.
 
 ---
 
-## 📈 2. Estructura y Etapas del Proyecto
+## 2. Estructura y Etapas del Proyecto
 El desarrollo se organiza de forma progresiva a lo largo de las siguientes secciones en el Notebook Jupyter:
 
 * **Etapa 1 - Exploración y Modelo Baseline (Obligatorio):**
@@ -37,14 +37,14 @@ El desarrollo se organiza de forma progresiva a lo largo de las siguientes secci
 
 ---
 
-## 🛠️ 3. Instrucciones para Reproducir el Entorno
+## 3. Instrucciones para Reproducir el Entorno
 1. **Entorno recomendado:** Google Colab (con acceso a GPU T4 para agilizar las etapas convolucionales).
 2. **Stack tecnológico:** Python 3.10+, TensorFlow / Keras 2.x, scikit-learn, matplotlib / seaborn.
 3. **Ejecución:** Clonar o descargar el repositorio, abrir el notebook principal (`.ipynb`) en Google Colab y ejecutar las celdas en orden secuencial. La primera celda incluye la descarga automatizada del dataset de Kaggle.
 
 ---
 
-## 📂 4. Estructura de la Carpeta de Entrega
+## 4. Estructura de la Carpeta de Entrega
 ```text
 TP_IA2026_PlantVillage/
 │
